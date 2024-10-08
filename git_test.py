@@ -2,4 +2,5 @@
 # Author:       Fan Yin
 # Description:  Code for git testing purposes
 
-print("i am somewhat familiar with Git")
+print("I am somewhat familiar with Git")
+print("I am learning how to use git")
